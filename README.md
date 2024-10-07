@@ -1,27 +1,37 @@
-# 👩‍💻 Acerca de mí
+# 💫 About Me:
+Hola, soy **Lisette Piña** y actualmente me especializo en el desarrollo **Backend** como parte de mi formación en **Laboratoria**. Tengo 13 años de experiencia como Ingeniera en Informática, lo que me ha permitido adquirir una sólida base técnica en desarrollo web. Actualmente estoy enfocada en **Python** y mi meta es continuar ampliando mis habilidades tanto en el **Backend** como en el **Frontend**.
 
-¡Hola! Soy **Lisette Piña**, aspirante a **Web Developer** especializada en **Front End**, con un enfoque actual en **JavaScript** y **Python**, y abierta a aprender nuevos lenguajes de programación. Tengo 13 años de experiencia como **Ingeniera en Informática** y he trabajado como **Webmaster**, lo que me ha permitido adquirir una sólida base técnica en desarrollo web.
+Me considero una persona **ordenada**, **responsable**, y con gran capacidad de **autoaprendizaje**. Disfruto colaborar en proyectos que promuevan un ambiente **respetuoso**, **innovador** y con un enfoque en el **trabajo en equipo**.
 
-## 💻 Pasión por el Desarrollo Web
-Me considero una persona **selectiva**, **asertiva** y con **excelentes habilidades de comunicación**. Disfruto del **autoaprendizaje** y soy resiliente, además de ser **ordenada**, **responsable** y **puntual**. Mi pasión es resolver problemas técnicos y aportar soluciones que generen un impacto real.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lisettevpinam-web-developer) 
 
-## 🎯 Objetivo a Mediano Plazo
-Actualmente, estoy enfocada en el aprendizaje de **Python** y quiero especializarme en el **Backend**. Mi objetivo es desarrollarme plenamente como **Web Developer** y, en unos años, poder trabajar de forma remota. Estoy abierta a oportunidades laborales **presenciales** e **híbridas**.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) 
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=plastic&logo=glitch&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-## 🛠️ Habilidades Actuales
-Cuento con experiencia sólida en **JavaScript**, **HTML**, **CSS**, y actualmente me estoy capacitando en **Python** para abarcar tanto el **Frontend** como el **Backend**. Estas habilidades me permiten entregar soluciones eficientes, intuitivas y bien estructuradas.
-
-## 🤝 Interés en Proyectos Colaborativos
-Me gusta trabajar en equipo y creo en el poder del trabajo colaborativo 🤝. Escuchar a los demás y comunicarme de forma respetuosa y constructiva es fundamental para lograr proyectos exitosos y un ambiente de trabajo armonioso.
-
-## ⭐ Valores en los Proyectos
-Me gustaría trabajar en una empresa que promueva **el compromiso con el equipo**, **la innovación tecnológica** y **el aprendizaje continuo**, valores que encuentro esenciales. Aprecio un entorno de trabajo **respetuoso** y **constructivo**, en el que el equipo pueda aportar ideas de manera libre y abierta.
-
-## 🌱 Tiempo Libre
-En mi tiempo libre, disfruto de la **naturaleza**, **ir a la playa**, **leer libros** y **ver series**, actividades que me ayudan a mantenerme equilibrada y motivada.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lisettevirginia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lisettevirginia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lisettevirginia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-🙏 **¡Gracias por darte el tiempo de visitar mi perfil!** No dudes en contactarme si tienes alguna pregunta o quieres saber más sobre mis proyectos. Estoy disponible y encantada de colaborar o intercambiar ideas.
+[![](https://visitcount.itsvg.in/api?id=lisettevirginia&icon=0&color=5)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+---
+
+🙏 **¡Gracias por tomarte el tiempo de visitar mi perfil!** No dudes en contactarme si tienes alguna pregunta o quieres saber más sobre mis proyectos. Estoy disponible para colaborar y aprender juntos.
